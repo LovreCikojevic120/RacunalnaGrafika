@@ -1,2 +1,2 @@
 # RacunalnaGrafika
-Seminar za predmet: Racunalna grafika
+Seminar za predmet - Racunalna grafika
